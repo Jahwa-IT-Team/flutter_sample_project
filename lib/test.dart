@@ -6,6 +6,7 @@ class homePage extends StatefulWidget {
 }
 
 class _homePageState extends State<homePage> {
+  String aaa = 'aa';
   @override
   Widget build(BuildContext context) {
     return Container();
